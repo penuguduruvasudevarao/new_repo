@@ -1,0 +1,9 @@
+name='vasu'
+age=24
+college='diat'
+print(name)
+print(age)
+print(college)
+print(type(name))
+print(type(age))
+print(type(college))
