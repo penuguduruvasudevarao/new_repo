@@ -1,0 +1,9 @@
+vasu
+24
+diat
+name vasu
+age24
+collegediat
+name vasu
+age2
+collegediat
