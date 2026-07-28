@@ -1,0 +1,5 @@
+name=input("Enter your name: ")
+file =open("name.txt","a")
+file.write("\n"+  name)
+file.close()
+print("Name saved successfully")
