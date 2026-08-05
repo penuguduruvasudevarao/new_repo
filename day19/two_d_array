@@ -1,0 +1,6 @@
+import numpy as np
+
+marks=np.array([[70,80,90],[11,22,33]])
+print(marks)
+print(marks[0][0])
+print(marks.shape)
